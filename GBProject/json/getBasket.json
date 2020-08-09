@@ -3,16 +3,16 @@
     "countGoods": 2,
     "contents": [
       {
-        "id_product": 1,
-        "product_name": "blouse PEOPLE",
+        "id": 1,
+        "name": "blouse PEOPLE",
         "price": 77,
-        "quantity": 1
-      },
-      {
-        "id_product": 2,
-        "product_name": "bat man",
+        "img": "https://raw.githubusercontent.com/IKolyas/static/master/GBProject/img/catalog/man001.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "bat man",
         "price": 45,
-        "quantity": 1
-      }
+        "img": "https://raw.githubusercontent.com/IKolyas/static/master/GBProject/img/catalog/man002.jpeg"
+    },
     ]
   }
